@@ -25,7 +25,9 @@ const NUMERICS: [&str; DAYS] = [
 ];
 
 fn main() {
+    println!("");
     println!("== The Twelve Days of Christmas ==");
+    println!("");
 
     for verse in 0..DAYS {
         println!(
@@ -42,6 +44,6 @@ fn main() {
             );
         }
 
-        println!("\n")
+        println!("");
     }
 }
