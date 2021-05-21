@@ -1,0 +1,37 @@
+{
+  "folders": [
+    {
+      "name": "Hello World",
+      "path": "./hello-world"
+    },
+    {
+      "name": "Hello Cargo",
+      "path": "./hello-cargo"
+    },
+    {
+      "name": "Guessing Game",
+      "path": "./guessing-game"
+    },
+    {
+      "name": "Variables",
+      "path": "./variables"
+    },
+    {
+      "name": "Functions",
+      "path": "./functions"
+    },
+    {
+      "name": "Branches",
+      "path": "./branches"
+    },
+    {
+      "name": "Loops",
+      "path": "./loops"
+    },
+    {
+      "name": "Project: Twelve Days",
+      "path": "./twelve-days"
+    }
+  ],
+  "settings": {}
+}
