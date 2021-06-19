@@ -39,6 +39,10 @@
     {
       "name": "Ownership",
       "path": "./ownership"
+    },
+    {
+      "name": "Structs",
+      "path": "./structs"
     }
   ],
   "settings": {}
