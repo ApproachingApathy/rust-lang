@@ -45,5 +45,11 @@
       "path": "./structs"
     }
   ],
-  "settings": {}
+  "settings": {
+    "workbench.colorCustomizations": {
+      "activityBar.background": "#07304A",
+      "titleBar.activeBackground": "#0A4468",
+      "titleBar.activeForeground": "#F6FBFE"
+    }
+  }
 }

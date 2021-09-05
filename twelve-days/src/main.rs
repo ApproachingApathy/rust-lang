@@ -37,7 +37,8 @@ fn main() {
 
         for day in (0..verse + 1).rev() {
             println!(
-                "🎶 {} {}{} 🎶",
+                "🎶 {}{} {}{} 🎶",
+                if verse != 0 && day == 0 {"and "} else {""},
                 NUMERICS[day],
                 GIFTS[day],
                 if day == 0 { "." } else { "," }
